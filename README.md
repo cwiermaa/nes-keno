@@ -117,7 +117,7 @@ The goal is to select numbers, place a bet, and match drawn numbers to win credi
 
 ```text id="m6k1c2"
 code/   - Core game logic and rendering
-data/   - Lookup tables and supporting data
+data/   - Graphics data
 tools/  - Assembler binaries and build tooling
 ```
 
@@ -125,7 +125,7 @@ tools/  - Assembler binaries and build tooling
 
 ## Build
 
-This project uses the **WLA-DX v9.3** assembler toolchain.
+This project uses **WLA-DX v9.3** as the assembler.
 
 ### Windows
 
